@@ -1,4 +1,4 @@
-# Case-Study-4_Automobile_Mileage_Prediction
+# Case-Study-4_Automobile_MPG_Prediction
 
 ## Project Description: 
 The following project aims to predict mileage per gallon(mps) using various technical specifications (features) as input to the regression algorithms. 
